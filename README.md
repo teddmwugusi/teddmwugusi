@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Tedd Mwugusi</h1>
 <h3 align="center">A beginner learning to code</h3>
 
 - 📫 How to reach me **teddmwugusi@gmail.com**
